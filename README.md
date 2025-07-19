@@ -1,5 +1,5 @@
 # 💫 About Me:
-Namaste 🙏,<br><br>I am a passionate Full Stack Web Developer and Cyber Security Enthusiast. I love creating software solutions that address real-world challenges. I am actively seeking collaboration on exciting projects. If you have a novel idea or would like to contribute to my existing projects, feel free to fork my repository. Let's work together to build something amazing!
+I am a passionate Full Stack Web Developer and Cyber Security Enthusiast. I love creating software solutions that address real-world challenges. I am actively seeking collaboration on exciting projects. If you have a novel idea or would like to contribute to my existing projects, feel free to fork my repository. Let's work together to build something amazing!
 
 
 ## 🌐 Socials:
